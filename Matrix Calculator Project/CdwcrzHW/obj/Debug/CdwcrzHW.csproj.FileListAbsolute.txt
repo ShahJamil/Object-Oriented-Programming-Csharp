@@ -1,8 +1,0 @@
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\bin\Debug\CdwcrzHW.exe.config
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\bin\Debug\CdwcrzHW.exe
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\bin\Debug\CdwcrzHW.pdb
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\obj\Debug\CdwcrzHW.csproj.AssemblyReference.cache
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\obj\Debug\CdwcrzHW.csproj.SuggestedBindingRedirects.cache
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\obj\Debug\CdwcrzHW.csproj.CoreCompileInputs.cache
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\obj\Debug\CdwcrzHW.exe
-C:\Users\User\source\repos\CdwcrzHW\CdwcrzHW\obj\Debug\CdwcrzHW.pdb
